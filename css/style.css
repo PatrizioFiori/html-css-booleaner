@@ -49,3 +49,29 @@ header p{
 .intestazione{
     font-size: 12px;
 }
+
+.testo1 span{
+    background-color: yellow;
+}
+
+.tabella{
+    width:100% ;
+    border-collapse: collapse;
+}
+
+.th-tabella{
+    background-color: #62bcdf;
+    color: white;
+    text-align: left;
+}
+
+.tabella tbody, .tabella thead{
+    text-align: left;
+    border:none
+}
+
+.tabella tbody tr:nth-child(even){
+    background-color: cyan;
+}
+
+
