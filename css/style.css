@@ -74,4 +74,29 @@ header p{
     background-color: cyan;
 }
 
+.testo2 span{
+    background-color: yellow;
+}
 
+.img-footer1 p{
+    color: white;
+    font-size: 25px;
+    position: relative;
+    bottom: 230px;
+    left: 15px;
+    font-weight: bold;
+}
+
+.img-footer2 p{
+    color: white;
+    font-size: 25px;
+    position: relative;
+    bottom: 230px;
+    left: 15px;
+    font-weight: bold;
+}
+
+footer h3 {
+    color: gray;
+    font-size: 20px;
+}
