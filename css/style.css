@@ -1,0 +1,18 @@
+
+.box-striscia{
+    background-color: cornflowerblue;
+    background-image: url(../img/headerpattern.png);
+    height: 180px;
+}
+
+header p{
+    background-color: transparent;
+    background-image: url(../img/logo.svg);
+    height: 70px;
+    background-repeat: no-repeat;
+    background-size: contain;
+    
+    position: relative;
+    left: 25px;
+    bottom: -80px;    
+}
