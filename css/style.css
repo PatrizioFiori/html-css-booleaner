@@ -1,4 +1,12 @@
 
+body{
+    background-color: transparent;
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 16px;
+}
+
+
 .box-striscia{
     background-color: cornflowerblue;
     background-image: url(../img/headerpattern.png);
@@ -15,4 +23,29 @@ header p{
     position: relative;
     left: 25px;
     bottom: -80px;    
+}
+
+.titolo{
+    font-size: 20px;
+}
+
+.scritto{
+    font-size: 1.2rem;
+    color: grey;
+    margin-bottom: 0;
+
+}
+
+.scritto span{
+    color: blue;
+}
+
+.data{
+    color: grey;
+    font-size: 10px;
+    margin-top: 0;
+}
+
+.intestazione{
+    font-size: 12px;
 }
